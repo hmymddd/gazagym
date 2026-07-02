@@ -1,2 +1,0 @@
-# gazagym
-gazagym list
